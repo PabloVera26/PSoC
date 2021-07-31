@@ -2,6 +2,9 @@
 #include <stdio.h>//librería para la funcion sprintf
 #include <stdlib.h>//libreria para algunas funciones char
 
+//ADRIAN PINES- SENSOR 0 EN EL PIN 2.6
+//ADRIAN PINES- SENSOR 1 EN EL PIN 2.7
+
 uint8 personas; //variable del contador de personas
 uint16 status0,status1; //variables para leer las entradas
 char str[9];                // variable de impresion para las personas
