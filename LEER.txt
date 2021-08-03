@@ -1,0 +1,25 @@
+variables adrian
+variables yayo
+varia
+variab
+varia
+
+for(,,)
+{
+
+funcion hora
+funcion contador();
+funcion temp();
+funcion co2();
+funcion humedad();
+
+funcion boton para captura del data();
+funcion datalooger();
+
+impresion fecha();
+impresion hora();
+impresion temperatura co2 humedad();
+impresion();
+
+}
+
